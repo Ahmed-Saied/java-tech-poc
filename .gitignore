@@ -1,0 +1,13 @@
+
+*.jar
+mancala-game/.mvn/wrapper/maven-wrapper.properties
+mancala-game/mvnw
+mancala-game/mvnw.cmd
+*.jar
+*.jar
+mancala-game/.classpath
+*.prefs
+mancala-game/.settings/org.eclipse.wst.common.project.facet.core.xml
+*.class
+*.lst
+*.MF
